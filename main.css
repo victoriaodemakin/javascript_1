@@ -1,0 +1,11 @@
+.error-message{
+ padding:  1em;
+ color: crimson;
+ border: 1px double crimson;
+}
+
+.success-message{
+ padding:  1em;
+ color: limegreen;
+ border: 1px double limegreen;
+}
